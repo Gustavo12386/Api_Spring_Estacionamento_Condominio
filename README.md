@@ -11,4 +11,4 @@ editar e deletar dados.
 ![api](https://github.com/user-attachments/assets/fd050162-96f7-448b-8011-ccf4eb6799f6)
 
 ## Autor
-- Gustavo Viana
+- Gustavo Calderaro

@@ -6,7 +6,7 @@ editar e deletar dados.
 
 ## ✨ Tecnologias Utilizadas
 - Java 21
-- SpringBoot 3.4.2
+- SpringBoot 
 - PostgreSQL
 
 ## 🚀 Como Executar
